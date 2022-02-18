@@ -1,8 +1,8 @@
 {
   [
-    cars: {"brand":"FIAT"}, {"brand": "Audi"}, {"brand": "BMW"}
+    "cars": {"brand":"FIAT"}, {"brand": "Audi"}, {"brand": "BMW"}
   ],
   [
-    bikes: {"brand": "Ducati", "status": "broken"}, {"brand": "Kawasaki", "status": "perfect"}
+    "bikes": {"brand": "Ducati", "status": "broken"}, {"brand": "Kawasaki", "status": "perfect"}
   ],
 }
